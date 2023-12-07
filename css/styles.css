@@ -300,7 +300,8 @@ kbd kbd {
 }
 
 figure {
-  margin: 0 0 1rem;
+  width: 200px;
+  margin:0!important;
 }
 
 img,
